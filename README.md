@@ -1,20 +1,14 @@
 
 # Resumos Git e Github
 
-Repositório para armezenar resumos sobre Git e Github do BootCamp
+Repositório atual contém código que para realizar sorteio para de 5 pessoas do sexo masculino e 5 pessoas do sexo feminino. Sendo selecionados para 2 horários de missas em uma Igreja Católica.
 
-## 📚 Documentação
-- [Documentação Git](http://git.scm.com/doc)
-
-- [Documentação GitHub](http://docs.githup.com/)
-
-## 💻 Resumos das Aulas
-|   Aulas    |   Resumo  |
+## 💻 Resumos do Arquivo
+|   10h    |   18h  |
 |------------|------------|
-|Aula 01| [Resumos]()
+|Meninos| [Meninas]
 
-```
-git init
-```
 ## 🔍 Referências
+
+Inserido nomes e data de nascimento para ser gerado idade e permissões em determinados horários.
 
