@@ -6,7 +6,7 @@ Repositório atual contém código que para realizar sorteio para de 5 pessoas d
 ## 💻 Resumos do Arquivo
 |   10h    |   18h  |
 |------------|------------|
-|Meninos| [Meninas]
+|Meninos| Meninas|
 
 ## 🔍 Referências
 
